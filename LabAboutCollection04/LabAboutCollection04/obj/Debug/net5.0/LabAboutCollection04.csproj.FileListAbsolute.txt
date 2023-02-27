@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\bin\Debug\net5.0\LabAboutCollection04.exe
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\bin\Debug\net5.0\LabAboutCollection04.deps.json
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\bin\Debug\net5.0\LabAboutCollection04.runtimeconfig.json
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\bin\Debug\net5.0\LabAboutCollection04.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\bin\Debug\net5.0\LabAboutCollection04.dll
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\bin\Debug\net5.0\LabAboutCollection04.pdb
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.dll
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\refint\LabAboutCollection04.dll
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.pdb
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\LabAboutCollection04.genruntimeconfig.cache
+C:\Users\DELL\source\repos\LabAboutCollection04\LabAboutCollection04\obj\Debug\net5.0\ref\LabAboutCollection04.dll
